@@ -1,3 +1,10 @@
+//     Author: Omri Gotlieb
+//     Github: https://github.com/Omrigotlieb
+//     HackerRank: https://www.hackerrank.com/omrigotlieb
+//     Portfolio: http://omrigotlieb.com/
+
+
+
 // Declare your class here. Do not use the 'public' access modifier.
     class MyBook extends Book{
     int price;

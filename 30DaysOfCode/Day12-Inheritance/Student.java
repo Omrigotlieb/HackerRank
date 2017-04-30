@@ -1,3 +1,9 @@
+//     Author: Omri Gotlieb
+//     Github: https://github.com/Omrigotlieb
+//     HackerRank: https://www.hackerrank.com/omrigotlieb
+//     Portfolio: http://omrigotlieb.com/
+
+
 class Student extends Person{
 	private int[] testScores;
 

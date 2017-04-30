@@ -1,3 +1,8 @@
+//     Author: Omri Gotlieb
+//     Github: https://github.com/Omrigotlieb
+//     HackerRank: https://www.hackerrank.com/omrigotlieb
+//     Portfolio: http://omrigotlieb.com/
+
 
 public class Solution {
 	public static void main(String[] args) {

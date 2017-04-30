@@ -1,4 +1,8 @@
-//Complete this code or write your own from scratch
+//     Author: Omri Gotlieb
+//     Github: https://github.com/Omrigotlieb
+//     HackerRank: https://www.hackerrank.com/omrigotlieb
+//     Portfolio: http://omrigotlieb.com/
+
 import java.util.*;
 import java.io.*;
 
